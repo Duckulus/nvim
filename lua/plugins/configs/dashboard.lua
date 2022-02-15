@@ -19,6 +19,8 @@ g.dashboard_custom_header = {
    "      ⢻⣿⣿⣄   ⠈⠻⣿⣿⣿⣷⣿⣿⣿⣿⣿⡟ ⠫⢿⣿⡆     ",
    "       ⠻⣿⣿⣿⣿⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⡟⢀⣀⣤⣾⡿⠃     ",
    "                                   ",
+   "                                   ",
+   "    https://github.com/Duckulus    "
 }
 
 g.dashboard_custom_section = {
